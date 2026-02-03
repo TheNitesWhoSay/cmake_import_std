@@ -1,0 +1,13 @@
+{
+  "version": "0.2.1",
+  "defaults": {},
+  "configurations": [
+    {
+      "type": "default",
+      "project": "CMakeLists.txt",
+      "projectTarget": "import_std.exe",
+      "name": "import_std.exe",
+      "currentDir": "${workspaceRoot}"
+    }
+  ]
+}
