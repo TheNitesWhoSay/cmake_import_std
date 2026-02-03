@@ -8,7 +8,7 @@ A demonstration of import std in Visual Studios, VS Code, and from command line.
 - Install and/or update Ninja to version 1.13.2 (from powershell, ``ninja --version`` should print ``1.13.2`` or newer)
 - Run ``git clone https://github.com/TheNitesWhoSay/cmake_import_std.git``
 
-* If you have a newer (or different, but earlier versions may not work at all) version of CMake, make note of what version; then in the following URL: ``https://github.com/Kitware/CMake/blob/v4.2.3/Help/dev/experimental.rst`` replace 4.2.3 with your version, then in the link find ``CMAKE_EXPERIMENTAL_CXX_IMPORT_STD`` and copy the value, and in CMakeLists.txt replace ``d0edc3af-4c50-42ea-a356-e2862fe7a444`` with your copied value.
+\* If you have a newer (or different, but earlier versions may not work at all) version of CMake, make note of what version; then in the following URL: ``https://github.com/Kitware/CMake/blob/v4.2.3/Help/dev/experimental.rst`` replace 4.2.3 with your version, then in the link find ``CMAKE_EXPERIMENTAL_CXX_IMPORT_STD`` and copy the value, and in CMakeLists.txt replace ``d0edc3af-4c50-42ea-a356-e2862fe7a444`` with your copied value.
 
 ## Visual Studios
 - Right click in the cmake_import_std folder and open with visual studios
